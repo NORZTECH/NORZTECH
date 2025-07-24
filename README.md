@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @NORZTECH
-- 👀 I’m interested in learning programming 
-- 🌱 I’m currently learning webdev,gamedev
-- 💞️ I’m looking to collaborate on someone that interesting to help
-- 📫 How to reach me dm @aljunnoro@gmai.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-NORZTECH/NORZTECH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi! I'm a Software Developer who loves creating useful and easy-to-use applications. I enjoy solving problems with code and learning new tools and technologies. I work on both front-end and back-end development, and I always try to write clean and efficient code. Feel free to check out my projects to see what I've been working on!
